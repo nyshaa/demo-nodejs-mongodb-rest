@@ -5,7 +5,7 @@ pipeline {
     }
 
     environment {
-        image = "atisak/demo-nodejs"
+        image = "nyshaa/jenkins"
         registry = "docker.io"
     }
 
